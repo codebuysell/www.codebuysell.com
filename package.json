@@ -1,0 +1,12 @@
+{
+  "name": "com.codebuysell.customscripts",
+  "version": "1.0.0",
+  "displayName": "CodeBuySell Unity Tools",
+  "description": "Professional Unity tools and scripts provided by CodeBuySell. Visit www.codebuysell.com for more.",
+  "unity": "2020.3",
+  "author": {
+    "name": "CodeBuySell LLC",
+    "email": "support@codebuysell.com",
+    "url": "https://www.codebuysell.com"
+  }
+}
