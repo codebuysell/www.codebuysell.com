@@ -12,4 +12,5 @@ This is the official Unity package by [CodeBuySell](https://www.codebuysell.com)
 Add this to your Unity project's `Packages/manifest.json`:
 
 ```json
-"com.codebuysell.customscripts": "https://github.com/codebuysell/www.codebuysell.com.git#1.0.0"
+"com.codebuysell.customscripts": "https://github.com/codebuysell/www.codebuysell.com.git#main"
+
