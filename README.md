@@ -27,7 +27,6 @@ Open your Unity project's `Packages/manifest.json` file and add the following li
 "com.codebuysell.customscripts": "https://github.com/codebuysell/www.codebuysell.com.git#main"
 ```
 
-> ✅ Replace `main` with your actual branch or tag if different.
 
 ---
 
