@@ -1,9 +1,9 @@
 {
   "name": "com.codebuysell.customscripts",
   "version": "1.0.0",
-  "displayName": "CodeBuySell Unity Tools",
+  "displayName": "www.codebuysell.com",
   "description": "Official Unity tools by CodeBuySell for game development, reskinning, monetization (AdMob, Unity Mediation), IAP integration, bug fixing, and store deployment (Play Store, App Store, Steam, etc).",
-  "unity": "2022.3.50f1",
+  "unity": "2022.3",
   "author": {
     "name": "CodeBuySell LLC",
     "email": "admin@codebuysell.com",
